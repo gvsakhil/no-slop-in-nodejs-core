@@ -88,6 +88,7 @@ speed up the process.
 - Petr Pechkurov (Developer)
 - Ping Lu (Programmer)
 - Denys Nykula (JS/TS Programmer)
+- Bryan English (Node.js Core Collaborator, user since Ryan announced it)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478

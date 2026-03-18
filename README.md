@@ -81,6 +81,7 @@ speed up the process.
 - Sean Scally (Programmer)
 - Yasser Nascimento (Programmer)
 - Tiziano Bettio (Programmer)
+- Camden Kirkland (Programmer, Data Scientist, Technical Instructor)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478

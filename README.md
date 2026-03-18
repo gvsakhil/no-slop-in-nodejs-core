@@ -76,6 +76,7 @@ speed up the process.
 - Jamie Kyle (Open Source Developer, TC39 Invited Expert)
 - Ellie Kanning
 - Sean Scally (Programmer)
+- Yasser Nascimento (Programmer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
